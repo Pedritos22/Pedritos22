@@ -1,16 +1,22 @@
-## Hi there 👋
+# ⭐ Pietro Molendys ⭐
 
-<!--
-**Pedritos22/Pedritos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Nothing in life is to be feared. It is only to be understood."*  
+> – *Maria Skłodowska-Curie*
 
-Here are some ideas to get you started:
+I'm Pietro, a Computer Science student based in **Cracow, Poland**.  
+I am eager to learn new programming principles and enjoy creating some funky projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌌 About Me
+- 🎓 Studying Computer Science at **Cracow University of Technology**  
+- 💻 Big technology enthusiast  
+- 🌟 Always open to new challenges and opportunities for growth  
+
+---
+
+###  Languages I Mostly Code In:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+</div>
