@@ -15,7 +15,7 @@ I am eager to learn new programming principles and enjoy creating some funky pro
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Pedritos22.Pedritos22)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=Pedritos22.Pedritos22)
 
 ---
 
